@@ -1,2 +1,2 @@
 # Game
-This is were i keep my code for my game.
+This is were I keep my code for my game.
